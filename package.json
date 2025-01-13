@@ -1,0 +1,15 @@
+{
+  "name": "masters-crp",
+  "version": "1.0.0",
+  "description": "This repo contains all my masters research papers for each course taken.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hugo-bin": "^0.137.2"
+  }
+}
