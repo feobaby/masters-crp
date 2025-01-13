@@ -1,8 +1,8 @@
 [build]
   base = "portfolio"
   publish = "portfolio/public"
-  command = "hugo"  # Simplified command, no need to install Hugo globally
+  command = "npm install -g hugo && hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.117.0"  # Specify the desired Hugo version
-  HUGO_EXTENDED = "true"     # Optional, remove if not necessary
+  HUGO_VERSION = "0.117.0"  # Use your desired Hugo version
+  HUGO_EXTENDED = "true"
