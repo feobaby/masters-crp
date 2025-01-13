@@ -1,0 +1,43 @@
+baseURL = "https://portfolio.funmiolaiya.com"
+languageCode = "en-us"
+title = "Funmi Olaiya"
+theme="archie"
+copyright = "© Funmi Olaiya"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/feobaby"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Masters"
+url = "/masters"
+weight = 2
+
+[[menu.main]]
+name = "Tech Articles"
+url = "/tech-articles"
+weight = 3
+
+[[menu.main]]
+name = "Skills"
+url = "/tech-skills"
+weight = 4
+
+[[menu.main]]
+name = "Speaking"
+url = "/speaking"
+weight = 5
+
+[[menu.main]]
+name = "Certs"
+url = "/certifications"
+weight = 6

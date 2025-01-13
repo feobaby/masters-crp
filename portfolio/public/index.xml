@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Funmi Olaiya</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Funmi Olaiya</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Funmi Olaiya</copyright>
+    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Here are some certifications I have gotten over time!</title>
+      <link>http://localhost:1313/certifications/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certifications/</guid>
+      <description>&lt;ul&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;https://www.udacity.com/certificate/DVJFD44G&#34; target=&#34;_blank&#34;&gt;Machine Learning Nanodegree&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1-5w-5sjezvdm3FhmsCkiNJTrBcebV4IC/view&#34; target=&#34;_blank&#34;&gt;Oracle Certified Expert Database SQL&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;https://www.educative.io/verify-certificate/X78zmzVw941Tkp5loygX0BhMqq8rMzZPyiL&#34; target=&#34;_blank&#34;&gt;Web Application and Software Architecture 101&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/15WxSorqP6c2_RXvcMK6mFwgYRBih8455/view&#34; target=&#34;_blank&#34;&gt;Machine Learning - Stanford University&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;https://www.educative.io/verify-certificate/y6VlLxv1GBGhJ65BNo0vg9uy776xy02W1Cm&#34; target=&#34;_blank&#34;&gt;Machine Learning for Software Engineers &lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>My key technical skills are highlighted below.</title>
+      <link>http://localhost:1313/tech-skills/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tech-skills/</guid>
+      <description>&lt;ul&gt;&#xA;    &lt;li&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; Node.js, JavaScript, TypeScript, Go, Python&lt;/li&gt;&#xA;    &lt;li&gt;&lt;strong&gt;Frameworks &amp; Libraries:&lt;/strong&gt; React.js, Redux, Nest.js, Express.js, Django, Gin&lt;/li&gt;&#xA;    &lt;li&gt;&lt;strong&gt;DevOps/Cloud &amp; Version Control:&lt;/strong&gt; AWS, Digital Ocean, Docker, Vercel, Netlify, Heroku, GitHub Actions, CircleCI, Travis CI, Git&lt;/li&gt;&#xA;    &lt;li&gt;&lt;strong&gt;Databases:&lt;/strong&gt; PostgreSQL, MongoDB&lt;/li&gt;&#xA;    &lt;li&gt;&lt;strong&gt;Machine Learning &amp; AI:&lt;/strong&gt; Python, Numpy, Pandas, SciKit-Learn, TensorFlow, Jupyter&lt;/li&gt;&#xA;    &lt;li&gt;&lt;strong&gt;Project Management Tools:&lt;/strong&gt; Jira, Trello, Pivotal Tracker&lt;/li&gt;&#xA;  &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>This includes some of the most recent technical content I&#39;ve written, listed in order of recency.</title>
+      <link>http://localhost:1313/masters/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/masters/</guid>
+      <description>&lt;h2&gt;CS 858 - User Authentication&lt;/h2&gt;&#xA;&lt;p style=&#34;font-size: large;&#34;&gt;  Professor - Urs Hengartner&lt;/p&gt;&#xA;&lt;a href=&#34;http://localhost:1313/masters-res/CS_858_Final_Report.pdf&#34; target=&#34;_blank&#34;&gt;Final Report&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/masters-res/CS_858_Final_Presentation.pdf&#34; target=&#34;_blank&#34;&gt;Final Presentation&lt;/a&gt;&#xA;&#xA;&lt;h2&gt;CS 846 - Software Testing and Debugging&lt;/h2&gt;&#xA;&lt;p style=&#34;font-size: large;&#34;&gt;  Professor -  Chengnian Sun&lt;/p&gt;&#xA;&lt;a href=&#34;http://localhost:1313/masters-res/CS_846_Final_Report_STD.pdf&#34; target=&#34;_blank&#34;&gt;Final Report&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/masters-res/CS_846_Final_Presentation_STD.pdf&#34; target=&#34;_blank&#34;&gt;Final Presentation&lt;/a&gt;&#xA;&#xA;&lt;h2&gt;CS 846 - Empirical Software Evolution&lt;/h2&gt;&#xA;&lt;p style=&#34;font-size: large;&#34;&gt;  Professor - Mike Godfrey&lt;/p&gt;&#xA;&lt;a href=&#34;http://localhost:1313/masters-res/CS_846_Final_Report.pdf&#34; target=&#34;_blank&#34;&gt;Final Report&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/masters-res/CS_846_Final_Presentation.pdf&#34; target=&#34;_blank&#34;&gt;Final Presentation&lt;/a&gt;&#xA;&#xA;&lt;h2&gt;CS 856 - Programmable Networks&lt;/h2&gt;&#xA;&lt;p style=&#34;font-size: large;&#34;&gt;  Professor - Mina Arashloo&lt;/p&gt;&#xA;&lt;a href=&#34;http://localhost:1313/masters-res/CS_856_Final_Report.pdf&#34; target=&#34;_blank&#34;&gt;Final Report&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/masters-res/CS_856_Final_Presentation.pdf&#34; target=&#34;_blank&#34;&gt;Final Presentation&lt;/a&gt;&#xA;&#xA;&lt;h2&gt;CS 888 - Rendering&lt;/h2&gt;&#xA;&lt;p style=&#34;font-size: large;&#34;&gt;  Professor - Toshiya Hachisuka&lt;/p&gt;&#xA;This course had no Final Report and no Final Presentation&lt;/a&gt;&#xA;&#xA;&lt;h2&gt;CS 889 - Value Driven Technology&lt;/h2&gt;&#xA;&lt;p style=&#34;font-size: large;&#34;&gt;  Professor - Edith Law&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This includes some of the most recent technical content I&#39;ve written, listed in order of recency.</title>
+      <link>http://localhost:1313/tech-articles/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tech-articles/</guid>
+      <description>&lt;section class=&#34;body&#34;&gt;&#xA;&#xA;  &lt;div&gt;&#xA;      &lt;h3 class=&#34;title&#34;&gt;How to Create and Use PDF Templates with Foxit PDF SDK for Web - &lt;a href=&#34;https://developers.foxit.com/pdf/how-to-create-and-use-pdf-templates-with-foxit-pdf-sdk-for-web/&#34; target=&#34;_blank&#34;&gt;Read&lt;/a&gt;&lt;/h3&gt;&#xA;      &lt;p class=&#34;meta&#34;&gt;September 23, 2022&lt;/p&gt;  &#xA;    &lt;/div&gt;&#xA;&lt;div&gt;&#xA;&lt;h3 class=&#34;title&#34;&gt;Using React Hook Form with AG Grid - &lt;a href=&#34;https://blog.ag-grid.com/using-react-hook-form-with-ag-grid/&#34; target=&#34;_blank&#34;&gt;Read&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p class=&#34;meta&#34;&gt;September 15, 2022&lt;/p&gt;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;div&gt;&#xA;  &lt;h3 class=&#34;title&#34;&gt;Understanding Pointers in Go - &lt;a href=&#34;https://blog.funmiolaiya.com/understanding-pointers-in-go&#34; target=&#34;_blank&#34;&gt;Read&lt;/a&gt;&lt;/h3&gt;&#xA;  &lt;p class=&#34;meta&#34;&gt;May 31, 2022&lt;/p&gt;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;div&gt;&#xA;  &lt;h3 class=&#34;title&#34;&gt;So you want to learn Go? - &lt;a href=&#34;https://blog.funmiolaiya.com/so-you-want-to-learn-go&#34; target=&#34;_blank&#34;&gt;Read&lt;/a&gt;&lt;/h3&gt;&#xA;  &lt;p class=&#34;meta&#34;&gt;July 3, 2021&lt;/p&gt;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;div&gt;&#xA;  &lt;h3 class=&#34;title&#34;&gt;For beginners - Roadmap to being a great backend developer - &lt;a href=&#34;https://blog.funmiolaiya.com/for-beginners-roadmap-to-being-a-great-backend-developer&#34; target=&#34;_blank&#34;&gt;Read&lt;/a&gt;&lt;/h3&gt;&#xA;  &lt;p class=&#34;meta&#34;&gt;November 5, 2020&lt;/p&gt;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;div&gt;&#xA;  &lt;h3 class=&#34;title&#34;&gt;Let us create a todo app with React, Hasura and GraphQL! - &lt;a href=&#34;https://blog.funmiolaiya.com/let-us-create-a-todo-app-with-react-hasura-and-graphql&#34; target=&#34;_blank&#34;&gt;Read&lt;/a&gt;&lt;/h3&gt;&#xA;  &lt;p class=&#34;meta&#34;&gt;September 11, 2020&lt;/p&gt;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt; To read more technical articles: go &lt;a href=&#34;https://blog.funmiolaiya.com/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This will include some of my speaking engagements soon.</title>
+      <link>http://localhost:1313/speaking/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speaking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
